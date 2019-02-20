@@ -20,8 +20,6 @@ My portfolio of data science projects for academic, certification and self-learn
    - Built Recurent Neural Network step by step implementing layers in numpy 
    - Implemented a model that uses an LSTM to generate music, etc. 
    
-#### Matlab:
-+ [Machine Learning Course Projects](https://github.com/volhaleusha/Machine-Learning-Course): (in Matlab). As part of this course completed exexrcises on topics: linear, logistic regression, neural networks, recommender systems, support vector machines, anomaly detection, dimensionality reduction.
 
 ### Statistics
 
