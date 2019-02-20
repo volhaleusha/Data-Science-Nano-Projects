@@ -7,7 +7,7 @@ My portfolio of data science projects for academic, certification and self-learn
 
 #### Python
 
-+ [Deep Learning Specification on Coursera](https://github.com/volhaleusha/Data-Science-Specialization-Projects): (in Python, including Keras and Tensorflow). As part of specification completed following projects:
++ [Deep Learning Specification on Coursera](https://github.com/volhaleusha/Deep-Learning-Specification-Projects): (in Python, including Keras and Tensorflow). As part of specification completed following projects:
    - Cat classifier using logistic regression
    - 2-class classification neural network with a single hidden layer for Planar Dataset
    - Built Deep Neural Network step by step implementing layers in numpy and applied it on Cat vs non-cat Dataset
