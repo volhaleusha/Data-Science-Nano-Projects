@@ -7,7 +7,7 @@ My portfolio of data science projects for academic, certification and self-learn
 
 #### Python
 
-+ [Prediction of Alcohol content in wine](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Machine%20Learning/Predict%20Alcohol%20Content). Built Linear Regression model to predict alcohol content in wine using pandas and numpy. Compared performance of this model to SkLearn model. 
++ [Prediction of Alcohol content in wine](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Machine%20Learning/Predict%20Alcohol%20Content). Built Linear Regression model to predict alcohol and flavanoid content in wine using pandas and numpy. Compared performance of this model to SkLearn model. 
 
 + [Deep Learning Specification on Coursera](https://www.coursera.org/specializations/deep-learning): (in Python, including Keras and Tensorflow). [Certificate](https://www.coursera.org/account/accomplishments/specialization/LDHQRBD65FV6). As part of specification completed following projects (my solutions for this specific specialization can not be publicaly posted in GitHub due to Coursera honor code):
    - Cat classifier using logistic regression
@@ -34,7 +34,7 @@ My portfolio of data science projects for academic, certification and self-learn
 
 #### Python
 
-+ [PCA and T-test for Wine Dataset]() to understand how separable wine dataset is 2 and 3 component PCA created and pairwise t-test performed between all attributes and classes of the dataset. 
++ [PCA and T-test](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Statistics/PCA%20and%20T-test%20for%20Wine%20Dataset). Objective: understand how separable is wine dataset by classes and check which attributes are not separable using principle component analysis and t-test on wine dataset. 
 
 ### Visualization
 
