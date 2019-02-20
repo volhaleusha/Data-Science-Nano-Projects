@@ -1,1 +1,21 @@
 
+Project Objective:
+-----------------------------
+
+This folder contains project based on  Wine Dataset. This dataset is widely known for wine classification. 
+However, this project adds new analysis that is not presented in wine dataset tutorials. It targets to statistically check 
+and proof that dataset is separable in terms of all attributes vs classes and also check which attributes are not separable.
+
+Tools and models used: 
+-----------------------------
+During the project PCA and statistical t-tests are performed on dataset using scipy and Sklearn libraries
+Also some visualization presented using such libraries as matplotlib and seaborn.
+
+
+Projects results:
+-----------------------------
+
+It is shown that dataset can be succesfully used for wine classification.  
+However, not all attributes are separable by classes. 
+With 95% confidence it was discovered that out of 13 attributes 4 have the same mean for some classes. 
+
