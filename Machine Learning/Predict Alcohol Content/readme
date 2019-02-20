@@ -1,8 +1,12 @@
-This folder contains project based on  Wine Dataset. This dataset is widely known to be used for wine classification. 
+
+### Objective of the project:
+
+This folder contains project based on  Wine Dataset. This dataset is widely known for wine classification. 
 However, this project is totally different. It targets to build regression model that can be successfully used on this 
 dataset to predict other attributes that are not categorical.  
-The project starts with exploration of dataset to inderstand if there is a possibility to predict any continuous 
-variables at all. As the most interesting variables alcohol and flavanoids content were chosen and hand made simple linear regression was built.  
-Moreover, result were compared to SkLearn linear regression model to check which one can achieve better result. And on top 
-of this polynomial regression performance was checked.
 
+The project starts with exploration of dataset to inderstand if there is a possibility to predict any continuous 
+variables at all. As the most interesting variables alcohol and flavanoids content were chosen and hand made ste-py-step 
+simple linear regression was built. 
+
+Moreover, result were compared to SkLearn linear regression model to check performance of hand made model. 
