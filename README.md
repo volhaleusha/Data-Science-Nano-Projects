@@ -3,16 +3,27 @@ My portfolio of data science projects for academic, certification and self-learn
 
 ## Content
 
+### Machine learning
+
+* Python
+
+### Statistics
+
+* R
+
+* Python
+
+### Visualization
+
+* R
+
+* Python
+
+
 ### Data cleaning 
  
 * R 
   + Creating a clean data set for Human Activity Recognition Using Smartphones Dataset Version 1.0 
-
-### Statistics
-
-### Machine learning
-
-### Visualization
 
 ### Communication
 
