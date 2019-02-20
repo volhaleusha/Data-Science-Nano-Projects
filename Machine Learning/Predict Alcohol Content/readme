@@ -1,1 +1,10 @@
+This folder contains project based on  Wine Dataset. This dataset is widely known to be used for wine classification. 
+However, this project is totally different. It targets to build regression model that can be successfully used on this 
+dataset to predict other attributes that are not categorical.  
+The project starts with exploration of dataset to inderstand if there is a possibility to predict any continuous 
+variables at all. As the most interesting variable alcohol content was chosen and hand made simple linear regression was built.  
+Moreover, result were compared to SkLearn linear regression model to check which one can achieve better result. And on top 
+of this polynomial regression performance was checked.
 
+It was discovered that models perform very similar to each other and give r^2 value of approximatelly 0.5. This means that 50%
+of variation in alcohol content can be explained by linear regression model. 
