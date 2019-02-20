@@ -7,6 +7,9 @@ My portfolio of data science projects for academic, certification and self-learn
 
 * Python
 
++ [Fully completed Deep Learning Specialization Coursera](https://github.com/volhaleusha/Data-Science-Specialization-Projects): (in Python, including Keras and Tensorflow). As part of specification completed following projects:
+   - 111
+
 ### Statistics
 
 * R
