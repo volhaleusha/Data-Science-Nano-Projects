@@ -7,7 +7,7 @@ My portfolio of data science projects for academic, certification and self-learn
 
 #### Python
 
-+ [Deep Learning Specification on Coursera](https://www.coursera.org/specializations/deep-learning): (in Python, including Keras and Tensorflow). As part of specification completed following projects [certificate](https://www.coursera.org/account/accomplishments/specialization/LDHQRBD65FV6):
++ [Deep Learning Specification on Coursera](https://www.coursera.org/specializations/deep-learning): (in Python, including Keras and Tensorflow). [Certificate](https://www.coursera.org/account/accomplishments/specialization/LDHQRBD65FV6)As part of specification completed following projects (my solutions for this specific specialization can not be publicaly posted in GitHub due to Coursera honor code):
    - Cat classifier using logistic regression
    - 2-class classification neural network with a single hidden layer for Planar Dataset
    - Built Deep Neural Network step by step implementing layers in numpy and applied it on Cat vs non-cat Dataset
@@ -20,8 +20,6 @@ My portfolio of data science projects for academic, certification and self-learn
    - Built Recurent Neural Network step by step implementing layers in numpy 
    - Implemented a model that uses an LSTM to generate music, etc. 
    
-Solutions for this specific specialization can not be publicaly posted in GitHub due to Coursera honor code.    
-
 ### Statistics
 
 #### R
