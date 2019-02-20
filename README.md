@@ -34,6 +34,8 @@ My portfolio of data science projects for academic, certification and self-learn
 
 #### Python
 
++ [PCA and T-test for Wine Dataset]() to understand how separable wine dataset is 2 and 3 component PCA created and pairwise t-test performed between all attributes and classes of the dataset. 
+
 ### Visualization
 
 #### R
