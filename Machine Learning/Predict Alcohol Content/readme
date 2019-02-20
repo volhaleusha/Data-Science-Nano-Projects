@@ -1,5 +1,6 @@
 
 Objective of the project:
+--------------------------
 
 This folder contains project based on  Wine Dataset. This dataset is widely known for wine classification. 
 However, this project is totally different. It targets to build regression model that can be successfully used on this 
