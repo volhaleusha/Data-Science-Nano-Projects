@@ -11,3 +11,17 @@ variables at all. As the most interesting variables alcohol and flavanoids conte
 simple linear regression was built. 
 
 Moreover, result were compared to SkLearn linear regression model to check performance of hand made model. 
+
+Tools and models used:
+-------------------------
+Linear regression, t-test, numpy, pandas, sklearn, matplotlib, scipy, timeit
+
+Results:
+------------------------
+Achieved performance for alchol predictoin:
+R^2 :50-60%
+
+Achived performance for flavanoids prediction:
+R^2: 80-90% 
+
+Step-by-step model has proven to have similar results to SkLearn model with 95% confidence. 
