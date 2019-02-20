@@ -23,7 +23,7 @@ My portfolio of data science projects for academic, certification and self-learn
    
 #### Matlab   
 
-+ [Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning/home/welcome) (in MatLab). [Certificate](https://www.coursera.org/account/accomplishments/certificate/CLFDDYW7B9DR). My solutions for this specific specialization can not be publicaly posted in GitHub due to Coursera honor code. Course includes projects on building linear regression, logistic regression, recommender system, neural network, support vector machine, dimensionality reduction and anomaly detection using MatLab.
++ [Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning/home/welcome) (in MatLab). [Certificate](https://www.coursera.org/account/accomplishments/certificate/CLFDDYW7B9DR). My solutions for this specific specialization can not be publicaly posted in GitHub due to Coursera honor code. Course includes projects on building linear regression, logistic regression, recommender system, neural network, support vector machine, dimensionality reduction and anomaly detection.
    
    
 ### Statistics
