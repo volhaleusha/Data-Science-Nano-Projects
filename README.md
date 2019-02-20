@@ -23,7 +23,7 @@ My portfolio of data science projects for academic, certification and self-learn
 ### Data cleaning 
  
 * R 
-  + Creating a clean data set for Human Activity Recognition Using Smartphones Dataset Version 1.0 
+  + Creating a clean data set from Human Activity Recognition Using Smartphones Dataset Version 1.0 (assignment solution for Data Science Certification)  
 
 ### Communication
 
