@@ -1,4 +1,4 @@
-# Data-Science-Portfolio (under construction, please refer to other repositories)
+# Data-Science-Portfolio (under construction)
 My portfolio of data science projects for academic, certification and self-learning purposes 
 
 ## Content
