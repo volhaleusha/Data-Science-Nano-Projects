@@ -1,1 +1,15 @@
 
+Project Objective: 
+---------------------------
+
+The objective of the project is to compare tooth growth by supp and dose for ToothGrowth dataset from Rdataset package.
+
+Tools and models used:
+---------------------------
+Confidence interval, hypothesis testing, R markdown, ggplot2
+
+
+Conclusions:
+---------------------------
+1. There is no enough evidence to say that supplement type effects tooth length  
+2. Dosage increase results in tooth length increase  
