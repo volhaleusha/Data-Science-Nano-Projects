@@ -32,6 +32,8 @@ My portfolio of data science projects for academic, certification and self-learn
 
 #### R
 
++ [Basic Inferential Data Analysis](). Analysis of the ToothGrowth dataset including basic summary of dats and comparison of tooth growthby supp and dose using confidence intervals and hypothesis tests.
+
 #### Python
 
 + [PCA and T-test](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Statistics/PCA%20and%20T-test%20for%20Wine%20Dataset). Objective: understand how separable is wine dataset by classes and check which attributes are not separable using principle component analysis and t-test on wine dataset. 
