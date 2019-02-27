@@ -43,7 +43,7 @@ My portfolio of data science projects for academic, certification and self-learn
 #### R
 
 #### Python
-+ [Hacker News Topics](). Objective of this projects is to look into Hacker News posts titles to identify the most common topics that users are posting, liking and talking about. Moreover, investigate and visualize most common posts' statistics by hours and weekdays.
++ [Hacker News Topics](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Exploration%20and%20Visualization/Hacker%20News%20Topics). Objective of this projects is to look into Hacker News posts titles to identify the most common topics that users are posting, liking and talking about. Moreover, investigate and visualize most common posts' statistics by hours and weekdays.
 
 ### Data cleaning 
  
