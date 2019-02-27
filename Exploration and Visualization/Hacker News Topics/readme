@@ -3,5 +3,40 @@ Link to download dataset:
 ----------------------------------------------------
 https://www.kaggle.com/hacker-news/hacker-news-posts
 
+Project Objective:
+-----------------------------
+The objective of this projects is to look into Hacker News posts titles to identify the most common topics that users are posting, liking and talking about. 
+
+There are four questions answered in this notebook:  
+    - What are the most common topics on Hacker News about?
+    - What are the most popular posts on Hacker News about?
+    - What are the most commented posts on Hacker News about?
+    - Is there difference in average amount of comments and points for posts created at different time of a day 
+    and day of a week? And is this difference the same for all types of posts? 
+
+
+Tools and models used: 
+-----------------------------
+
+
+
+Projects results:
+-----------------------------
+During the project it was discovered that:
+1. Most common topics on Hacker News are:
+    - 'Ask HN' and 'Show HN' posts
+    - Posts about topics related to words: 'Data', 'Google', 'new', 'app', 'US', etc.
+2. Most popular posts on Hacker News about topics related to words:
+    - 'Died', 'Lee', 'GitLab', 'AlphaGo', 'Sorced', 'Rust', 'Arrested', etc.
+3. Most commented posts on Hacker News about topics related to words:
+     - 'Income' , 'Lee' , 'Hired' , 'Poverty', 'Hiring', 'Decline', 'AlphaGo', etc.
+4. There is no difference in terms of average amount of comments and points for posts vs time of the day
+5. Posting activity of users for all types of posts is increasing starting from 10:00 in the morning until 
+approximatelly 17:00. Then it tends to go down. Pick posting activity is between 15:00 and 17:00.
+6. In general users are more active in commenting and liking posts created on weekends and beginning of a week.
+7. In general posting activity increases by middle of the week and drops by the end of the week. On the weekends 
+for all types of posts activity is relatively low.
+            
+      
 
 
