@@ -5,7 +5,8 @@ https://www.kaggle.com/hacker-news/hacker-news-posts
 
 Project Objective:
 -----------------------------
-The objective of this projects is to look into Hacker News posts titles to identify the most common topics that users are posting, liking and talking about. 
+The objective of this projects is to look into Hacker News posts titles to identify the most common topics that users 
+are posting, liking and talking about. 
 
 There are four questions answered in this notebook:  
     - What are the most common topics on Hacker News about?
@@ -17,8 +18,7 @@ There are four questions answered in this notebook:
 
 Tools and models used: 
 -----------------------------
-
-
+Cleaning strings, working with list of lists, datetime objects, pandas, ploting with matplotlib
 
 Projects results:
 -----------------------------
