@@ -7,7 +7,7 @@ My portfolio of data science projects for academic, certification and self-learn
 
 #### Python
 
-+ [Prediction of Alcohol content in wine](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Machine%20Learning/Predict%20Alcohol%20Content). Built Linear Regression model to predict alcohol and flavanoid content in wine using pandas and numpy. Compared performance of this model to SkLearn model. 
++ [Prediction of Flavanoid content in wine](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Machine%20Learning/Predict%20Alcohol%20Content). Built Linear Regression model to predict alcohol and flavanoid content in wine using pandas and numpy. Compared performance of this model to SkLearn model. 
 
 + [Deep Learning Specification on Coursera](https://www.coursera.org/specializations/deep-learning): (in Python, including Keras and Tensorflow). [Certificate](https://www.coursera.org/account/accomplishments/specialization/LDHQRBD65FV6). As part of specification completed following projects (my solutions for this specific specialization can not be publicaly posted in GitHub due to Coursera honor code):
    - Cat classifier using logistic regression
