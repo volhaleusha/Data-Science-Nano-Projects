@@ -32,7 +32,7 @@ My portfolio of data science projects for academic, certification and self-learn
 
 #### R
 
-+ [Basic Inferential Data Analysis](). Analysis of the ToothGrowth dataset including basic summary of dats and comparison of tooth growthby supp and dose using confidence intervals and hypothesis tests.
++ [Basic Inferential Data Analysis](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Statistics/Basic%20Inferential%20Data%20Analysis). Analysis of the ToothGrowth dataset including basic summary of dats and comparison of tooth growthby supp and dose using confidence intervals and hypothesis tests.
 
 #### Python
 
