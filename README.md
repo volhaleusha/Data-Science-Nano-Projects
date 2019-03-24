@@ -19,7 +19,7 @@ My portfolio of data science projects for academic, certification and self-learn
    - Implemented Residual Network in Keras
    - Car Detection with YOLO model
    - Art Generation with Neural Style Transfer
-   - Built Recurent Neural Network step by step implementing layers in numpy 
+   - Built Recurrent Neural Network step by step implementing layers in numpy 
    - Implemented a model that uses an LSTM to generate music, etc. 
    
    
