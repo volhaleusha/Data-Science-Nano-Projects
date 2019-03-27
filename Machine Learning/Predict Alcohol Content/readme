@@ -4,11 +4,12 @@ Objective of the project:
 
 This folder contains project based on  Wine Dataset. This dataset is widely known for wine classification. 
 However, this project is totally different. It targets to build regression model that can be successfully used on this 
-dataset to predict other attributes that are not categorical.  
+dataset to predict flavanoids content in wine. Flavanoid was chosen as it is antioxidant and it helps to  prevent 
+certain molecules, known as free radicals, from damaging cells. 
 
-The project starts with exploration of dataset to inderstand if there is a possibility to predict any continuous 
-variables at all. As the most interesting variables alcohol and flavanoids content were chosen and hand made ste-py-step 
-simple linear regression was built. 
+The project starts with exploration of dataset to inderstand if there is a possibility to predict predict flavanoid 
+content at all. As the most impactfull features are chosen and preprocessed and hand made ste-py-step 
+linear regression was built. 
 
 Moreover, result were compared to SkLearn linear regression model to check performance of hand made model. 
 
@@ -18,10 +19,3 @@ Linear regression, t-test, numpy, pandas, sklearn, matplotlib, scipy, timeit
 
 Results:
 ------------------------
-Achieved performance for alchol predictoin:
-R^2 :50-60%
-
-Achived performance for flavanoids prediction:
-R^2: 80-90% 
-
-Step-by-step model has proven to have similar results to SkLearn model with 95% confidence. 
