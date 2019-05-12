@@ -19,3 +19,7 @@ Linear regression, t-test, numpy, pandas, sklearn, matplotlib, scipy, timeit
 
 Results:
 ------------------------
+1. For the alcohol model the linear regression explains around 50-60% of variation
+2. For flavanoids model linear regression performs much better - around 80-90% of variation in data is explained
+3. There is no statistically significant difference between SkLearn linear regression model and hand-made linear regression
+models performance 
