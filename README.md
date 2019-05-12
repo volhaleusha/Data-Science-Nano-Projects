@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-My portfolio of data science projects for academic, certification and self-learning purposes 
+My portfolio of data science projects for academic and self-learning purposes 
 
 ## Content
 
