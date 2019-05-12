@@ -23,3 +23,9 @@ Results:
 2. For flavanoids model linear regression performs much better - around 80-90% of variation in data is explained
 3. There is no statistically significant difference between SkLearn linear regression model and hand-made linear regression
 models performance 
+
+Instructions:
+------------------------
+1. Download dataset: wine.data.txt
+2. Download Flavanoid content prediction.ipynb in the same folder as dataset
+3. Open Flavanoid content prediction.ipynb (Python3) and run
