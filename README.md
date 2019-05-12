@@ -1,4 +1,4 @@
-# Data-Science-Portfolio (not ready to view - under construction)
+# Data-Science-Portfolio
 My portfolio of data science projects for academic, certification and self-learning purposes 
 
 ## Content
@@ -6,6 +6,8 @@ My portfolio of data science projects for academic, certification and self-learn
 ### Machine learning
 
 #### Python
+
++ [Titanic: Detailed Feature Engineering, Encoding and Modeling](https://www.kaggle.com/volhaleusha/titanic-tutorial-encoding-feature-eng-81-8). In this project I am solving Titanic competition - dataset for beginners on Kaggle. The solution provided  achieved 81.8% on the public leaderboard. The main objective is not to simply solve the problem, but also to create tutorial on feature engineering, encoding, data cleaning stretegies and basic model tuning. 
 
 + [Prediction of Flavanoid content in wine](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Machine%20Learning/Predict%20Alcohol%20Content). Built Linear Regression model to predict alcohol and flavanoid content in wine using pandas and numpy. Compared performance of this model to SkLearn model. 
 
