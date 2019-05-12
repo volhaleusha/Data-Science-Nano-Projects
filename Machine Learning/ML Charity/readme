@@ -24,6 +24,9 @@ Results:
 ------------------------
 The best performance is achieved by blend of best two models models: Gradient Boosting and Adaboost  
 
-Instrudctions: 
+Instructions: 
 ---------------
-Download 
+1. Download dataset:  census.csv, test_census.csv
+2. Download example_submission.csv to the same folder as dataset
+3. Dowload ml-charity-eda-model-tuning-and-blend.ipynb to the same folder as dataset 
+4. Open ml-charity-eda-model-tuning-and-blend.ipynb (Python3) and run 
