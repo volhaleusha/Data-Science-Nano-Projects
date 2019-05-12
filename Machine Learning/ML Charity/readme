@@ -1,0 +1,25 @@
+Objective of the project:
+--------------------------
+
+In this project, I will apply supervised learning techniques and an analytical mind on data collected for the U.S. 
+census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. 
+I will first explore the data to learn how the census data is recorded. Next, I will apply a series of transformations 
+and preprocessing techniques to manipulate the data into a workable format. I will then evaluate several supervised learners 
+of your choice on the data, and consider which are best suited for the solution. Afterwards, I will optimize the models 
+selected and present it as a solution to CharityML. Finally, you will explore the chosen model and its predictions under 
+the hood, to see just how well it's performing when considering the data it's given.
+The success of your model will be determined based on models AUC or area under the curve associated with ROC curves. 
+
+Tools and models used:
+-------------------------
+- RandomForestClassifier
+- GaussianNB
+- KNeighborsClassifier
+- AdaBoostClassifier
+- GradientBoostingClassifier
+- LogisticRegression
+- Seaborn, numpy, pandas, sklearn, matplotlib, scipy, timeit
+
+Results:
+------------------------
+The best performance is achieved by blend of best two models models: Gradient Boosting and Adaboost  
