@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-My portfolio of data science projects for academic and self-learning purposes 
+Small data science projects for academic and self-learning purposes 
 
 ## Content
 
@@ -12,24 +12,6 @@ My portfolio of data science projects for academic and self-learning purposes
 + [ML Charity: EDA, Model Tuning and Blend](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Machine%20Learning/ML%20Charity). In this project, I apply supervised learning techniques and an analytical mind on data collected for the U.S. census to help CharityML identify people most likely to donate to their cause. I will first explore and preprocess the data into a workable format. I will then evaluate several supervised learners and consider which are best suited for the solution. Afterwards, I will optimize the models selected and present it as a solution to CharityML. 
 
 + [Prediction of Flavanoid content in wine](https://github.com/volhaleusha/Data-Science-Portfolio/tree/master/Machine%20Learning/Predict%20Alcohol%20Content). Built Linear Regression model to predict alcohol and flavanoid content in wine using pandas and numpy. Compared performance of this model to SkLearn model. 
-
-+ [Deep Learning Specification on Coursera](https://www.coursera.org/specializations/deep-learning): (in Python, including Keras and Tensorflow). [Certificate](https://www.coursera.org/account/accomplishments/specialization/LDHQRBD65FV6). As part of specification completed following projects (my solutions for this specific specialization can not be publicaly posted in GitHub due to Coursera honor code):
-   - Cat classifier using logistic regression
-   - 2-class classification neural network with a single hidden layer for Planar Dataset
-   - Built Deep Neural Network step by step implementing layers in numpy and applied it on Cat vs non-cat Dataset
-   - Improving Deep Neural Network: parameter tuning, optimization, batch normalization
-   - Built Convolutional Neural Network step by step implementing layers in numpy 
-   - Implemented a fully functioning ConvNet using TensorFlow on SIGNS dataset
-   - Implemented Residual Network in Keras
-   - Car Detection with YOLO model
-   - Art Generation with Neural Style Transfer
-   - Built Recurrent Neural Network step by step implementing layers in numpy 
-   - Implemented a model that uses an LSTM to generate music, etc. 
-   
-   
-#### Matlab   
-
-+ [Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning/home/welcome) (in MatLab). [Certificate](https://www.coursera.org/account/accomplishments/certificate/CLFDDYW7B9DR). My solutions for this specific specialization can not be publicaly posted in GitHub due to Coursera honor code. Course includes projects on building linear regression, logistic regression, recommender system, neural network, support vector machine, dimensionality reduction and anomaly detection.
    
    
 ### Statistics
